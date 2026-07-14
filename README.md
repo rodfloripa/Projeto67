@@ -449,7 +449,7 @@ routing tokens to experts
 
 ![download](https://github.com/rodfloripa/Projeto67/blob/main/download.png?raw=true)
 
-![download](https://github.com/rodfloripa/Projeto67/blob/main/download(1).png?raw=true)
+![download](https://github.com/rodfloripa/Projeto67/blob/main/download (1).png?raw=true)
 
 <div align="justify">
 
