@@ -447,6 +447,10 @@ routing tokens to experts
 
 # 15. Visualização dos Experts
 
+![download](https://github.com/rodfloripa/Projeto67/blob/main/download.png?raw=true)
+
+![download](https://github.com/rodfloripa/Projeto67/blob/main/download(1).png?raw=true)
+
 <div align="justify">
 
 O projeto registra a utilização de cada expert ao longo do treinamento.
